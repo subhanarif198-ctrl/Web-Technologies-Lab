@@ -1,2 +1,2 @@
 # Web-Technologies-Lab
-This for saving our all records for our class.
+This for saving our all records of our class of web technologies.
